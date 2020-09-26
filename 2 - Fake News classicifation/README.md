@@ -1,5 +1,7 @@
 # Fake News classicifation
 
+Ссылка на соревнование: https://competitions.codalab.org/competitions/26284#learn_the_details-overview
+
 Имеются тексты новостей, требуется определить является ли новость настоящей или нет.
 
 Для решения данной задачи я использовала предобученные модели трансформеров из библиотеки **Hugging Face**: **XLM-RoBERTa** и **BERT**.
