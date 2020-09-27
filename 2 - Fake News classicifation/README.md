@@ -1,4 +1,4 @@
-# Fake News classicifation
+# Fake News classification
 
 Ссылка на соревнование: https://competitions.codalab.org/competitions/26284#learn_the_details-overview
 
