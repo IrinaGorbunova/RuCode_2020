@@ -15,7 +15,7 @@ Max epoch = 10
 
 Краткая история повышения score на LB:
 
-| Model | Combined features | Train (1/0) | Public F1 | 
+| Model | Combined features | Train (0/1) | Public F1 | 
 |:-------:|:-------:|:-------:|:-------:|
 | `roberta-large`      | Описание вакансии | 9238/466 | 0.77 |
 | `roberta-large`      | <p>**Название**,<br>Описание вакансии,<br>**Описание компании**<p> | 9238/466 | 0.83 |
