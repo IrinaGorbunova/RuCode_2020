@@ -1,6 +1,6 @@
 # Fake Job Postings
 
-Ссылка на соревнование: https://www.kaggle.com/c/rucode-fake-job-postings/overview/evaluation
+Ссылка на соревнование: [RuCode Fake Job Postings](https://www.kaggle.com/c/rucode-fake-job-postings/overview/evaluation)
 
 Объявления о работе описываются набором из 15 признаков, требуется предсказать является объявление настоящим или нет.
 
