@@ -1,6 +1,6 @@
 # Fake News classification
 
-Ссылка на соревнование: https://competitions.codalab.org/competitions/26284#learn_the_details-overview
+Ссылка на соревнование: [Fake News classification](https://competitions.codalab.org/competitions/26284#learn_the_details-overview)
 
 Имеются тексты новостей, требуется определить является ли новость настоящей или нет.
 
@@ -44,4 +44,6 @@ Max len = 256 (максимальная длина входной последо
 
 \* *Сравнение проводилось между одинаковыми базовыми конфигурациями моделей.*
 
-Лучший же результат (F1 = 1.0) показала модель **XLM-RoBERTa-large**.
+Лучший же результат (F1 = 1.0) показала модель **XLM-RoBERTa-large**. \
+Воспроизводимый (на 28.09.2020) ноутбук с комментариями можно найти в папке [xlm-roberta-large-final-version](xlm-roberta-large-final-version) \
+Сохраненные веса модели (после 5 эпох) можно скачать по ссылке: [XLM_R_5.pt](https://drive.google.com/file/d/1Q0Q9VTNVHwuE3me8ey9k6FVvDCqhECfX/view?usp=sharing)
