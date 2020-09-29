@@ -31,7 +31,7 @@ Max len = 256 (максимальная длина входной последо
 
 | Model | Language | Best mean F1 (val) | 
 |:-------|:-------:|:-------:|
-| `xlm-roberta-base`      | 100 languages | 0.998 |
+| `xlm-roberta-base`      | 100 languages | **0.998** |
 | `bert-base-multilingual-cased`      | 104 languages | 0.985 |
 
 А русскоязычные модели лучше, чем многоязычные:
@@ -39,8 +39,8 @@ Max len = 256 (максимальная длина входной последо
 | Model | Language | Best mean F1 (val) | 
 |:-------|:-------:|:-------:|
 | `bert-base-multilingual-cased`      | 104 languages | 0.985 |
-| `DeepPavlov/rubert-base-cased`      | russian | 0.989 |
-| `DrMatters/rubert_cased`      | russian | 0.989 |
+| `DeepPavlov/rubert-base-cased`      | russian | **0.989** |
+| `DrMatters/rubert_cased`      | russian | **0.989** |
 
 \* *Сравнение проводилось между одинаковыми базовыми конфигурациями моделей.*
 
