@@ -30,6 +30,8 @@ Max epoch = 10
 
 | Version | Model | Combined features | Main idea | Epoch | Public F1 | Notebook | Weights |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| v17 | `roberta-large`      | <p>Название,<br>Тип занятости,<br>Дистанционно,<br>Вопросы,<br>**Зарплата**,<br>Место,<br>Описание компании,<br>Описание вакансии,<br>Требования<p> | <p>Попробовать<br>добавить<br>что-нибудь к v14<p> | <p>7<br>8<br>9<p> | <p>0.90494<br>0.90566<br>**0.91320**<p> | [v17_RoBERTa_10e](v17%20RoBERTa/v17_RoBERTa_10e.ipynb) | [Weights v17]() |
+| v17 | `roberta-large`      | <p>Название,<br>Тип занятости,<br>Дистанционно,<br>Вопросы,<br>**Зарплата**,<br>Место,<br>Описание компании,<br>Описание вакансии,<br>Требования<p> | <p>Попробовать<br>добавить<br>что-нибудь к v14<p> | <p>7<br>8<br>9<p> | <p>0.90494<br>0.90566<br>**0.91320**<p> | [v17_RoBERTa_10e](v17%20RoBERTa/v17_RoBERTa_10e.ipynb) | [Weights v17](https://drive.google.com/drive/folders/1UztnEbz6mDDcVBnZ5EDe73db_yMKFfVW?usp=sharing) |
 | v14 | `roberta-large`      | <p>Название,<br>Тип занятости,<br>Дистанционно,<br>**Место**,<br>Вопросы,<br>Описание компании,<br>Описание вакансии,<br>Требования<p> | <p>Взять все часто<br>заполненные<br>признаки<br>(>8000 non-null)<p> | <p>5<br>6<p> | <p>0.90421<br>0.90769<p> | [v14_RoBERTa_10e](v14%20RoBERTa/v14_RoBERTa_10e.ipynb) | [Weights v14](https://drive.google.com/drive/folders/1TLMEpCLtzU-VnR60pl_3NVHiXTq9CyM8?usp=sharing) |
 | v25 | `roberta-large`      | <p>Название,<br>Тип занятости,<br>Дистанционно,<br>Вопросы,<br>Описание компании,<br>Описание вакансии,<br>Требования<p> | <p>Попробовать<br>выкинуть<br>что-нибудь из v14<p> | <p>7<br>8<br>9<p> | <p>0.90000<br>0.90000<br>0.90076<p> | [v25_RoBERTa_10e](v25%20RoBERTa/v25_RoBERTa_10e.ipynb) | [Weights v25](https://drive.google.com/drive/folders/1aZ7bSNvoDfDHYj5hnzhcFUfINKzrPLP9?usp=sharing) |
+  
+Лично у меня больше доверия вызывает v25 (f1 на тесте ближе к валидации)
