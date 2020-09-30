@@ -13,6 +13,8 @@ Batch size = 4 \
 Max len = 512 (максимальная длина входной последовательности, состоящей из комбинации строковых признаков) \
 Max epoch = 10
 
+Обучение проходило на TPU в [colab.research.google.com](https://colab.research.google.com/)
+
 Краткая история повышения Score на LB:
 
 | Model | Combined features | Train data size (0/1) | Public F1 | 
