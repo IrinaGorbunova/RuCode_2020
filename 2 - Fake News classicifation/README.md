@@ -45,6 +45,6 @@ Max len = 256 (максимальная длина входной последо
 \* *Сравнение проводилось между одинаковыми базовыми конфигурациями моделей.*
 
 Лучший же результат (F1 = 1.0) показала модель **XLM-RoBERTa-large**. \
-Воспроизводимый (на 28.09.2020) ноутбук с комментариями можно найти в папке [xlm-roberta-large-final-version](xlm-roberta-large-final-version) \
-Сохраненные веса модели (после 5 эпох) можно скачать по ссылке: [XLM_R_5.pt](https://drive.google.com/file/d/1Q0Q9VTNVHwuE3me8ey9k6FVvDCqhECfX/view?usp=sharing) \
+Воспроизводимый (на 30.09.2020) ноутбук с комментариями можно найти в папке [xlm-roberta-large-final-version](xlm-roberta-large-final-version) \
+Сохраненные веса модели (после 5 эпох) можно скачать по ссылке: [XLM_R_5.pt](https://drive.google.com/drive/folders/1-8UH5FUdFxxUKUZ6ykU-7dkn3E2xmp1l?usp=sharing) \
 Обратите внимание, что ноутбук запускался на [colab.research.google.com](https://colab.research.google.com) с **TPU**
